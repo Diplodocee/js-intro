@@ -1,5 +1,5 @@
-var martian = "<h3>J'onn J'onzz</h3>";
-martian += "<h2>is the</h2>";
-martian += "<h3>Martian Manhunter</h3>";
+var martian = "<h1>J'onn J'onzz</h1>";
+martian += "<p>is the</p>";
+martian += "<h2>Martian Manhunter</h2>";
 
 document.write(martian);
